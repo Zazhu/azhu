@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="jun">
+    <output-path>$PROJECT_DIR$/jun</output-path>
+    <root id="root">
+      <element id="library" level="project" name="jdk1.8" />
+    </root>
+  </artifact>
+</component>
